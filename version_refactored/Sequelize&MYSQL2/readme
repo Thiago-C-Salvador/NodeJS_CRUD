@@ -1,0 +1,8 @@
+Para usar o exemplo como estudo ou modelo é preciso ter um conhecimento intermediário  de algumas frameorks, libs, chmadas de modulos e métodos  para ler o códiogo e conseguir compreendê-lo.
+Por exemplo:
+* Enteder que o Sequelize é um ORM - Object-Relational Mapping - e por isso você não encontrará linhas SQL no código.
+link para estudo e entendimento de ORM: https://www.treinaweb.com.br/blog/o-que-e-orm;
+* Saber instalar dependências, pois será necessário algumas:   "express", "mysql2", "sequelize";
+Obs.: instala-se a denpendêcnia mysql2, pois ela possui melhor performance e suporte a recursos mais atuais do JavaScript como promises.
+* rotas, funnções do CRUD (principais procedimentos de manipulção em um BD) e função async; e
+* principalmente ter um gerenciador de banco de dados instalado e criado. Não se deve criar as tabelas, pois o Sequelize tem o próprio padrão de criação dele. Caso se crie uma tabela conseguirá sim, utilizar ela, mas terá que configurar outras duas colunas "created_at" e "update_at" e conforme a definições que o Sequelize as gera. Então deixa que o Sequelize faça toda a mágica e evite dor de cabeça.

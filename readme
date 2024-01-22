@@ -1,0 +1,1 @@
+O repositório contém exemplos de uso do CRUD. No caso será possível encontrar um modelo com uso de dados tipo mock, apenas para se entender como funciona o processamento de cada função do mock, e também encontrará API's CRUD tanto usando o metódo "conect" e pacote "mysql"  quando o desenvolvimento da API com "sequelize" e a biblioteca "mysql2"

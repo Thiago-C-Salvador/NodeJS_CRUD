@@ -1,0 +1,10 @@
+
+/* 
+Para usar o exemplo como estudo ou modelo é preciso ter um conhecimento intermediário  de algumas frameorks, libs, chmadas de modulos, métodos e querys SQL  para ler o códiogo e conseguir compreendê-lo. Como por exemplo;
+* frameork mysql para realizar a conexão com o banco de dados;
+* saber criar um banco e um tabela para manipulação dos daos e rotas (sabero que são rotas);
+* Comando SQL;
+* chamadas de classes e métodos;
+* chamadas com retorno; e
+* funções async.
+*/
